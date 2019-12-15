@@ -1,3 +1,14 @@
+/* SVG animations */
+/*
+  Color del Loading
+*/
+svg path,
+svg rect {
+  fill: black;
+}
+
+/* animations */
+
 .animated {
   -webkit-animation-duration: 1s;
   animation-duration: 1s;
